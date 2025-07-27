@@ -39,7 +39,7 @@ Je m'appelle Nathanaël Fournier, j'ai 34 ans, j'ai decouvert le code en 2023 et
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white&style=for-the-badge)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## J’apprends actuellement
+## Actuellement
 
 Je me forme actuellement au COBOL, aux systèmes Mainframe et au JCL dans le cadre de ma formation Développeur Grand Système.
 
